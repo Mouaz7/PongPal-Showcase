@@ -1,7 +1,7 @@
 # 🏓 PongPal – Softhouse Ping Pong Booking App
 
 **PongPal** is an internal project developed at **Softhouse Karlskrona**.  
-Its main goal is to digitalize and simplify how employees manage the office ping-pong table — from booking and playing to tracking results and leaderboards.
+Its main goal is to digitalize and simplify how employees manage the office ping-pong table from booking and playing to tracking results and leaderboards.
 
 This repository contains **only visual and video documentation** of the project.  
 🖼️ No source code is included here due to internal policies.
@@ -103,7 +103,7 @@ The project demonstrates real-world engineering skills: structured code, modular
 
 ## ⚠️ Note
 
-This repository contains **no source code** — only presentation materials (images and videos).  
+This repository contains **no source code** only presentation materials (images and videos).  
 The full implementation is used internally by **Softhouse**.
 
 ---
